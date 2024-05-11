@@ -1,0 +1,2 @@
+multimoding/voices/open_voice_inference/clone-me-zh-tts.wav filter=lfs diff=lfs merge=lfs -text
+multimoding/voices/open_voice_inference/zh-tts.wav filter=lfs diff=lfs merge=lfs -text
